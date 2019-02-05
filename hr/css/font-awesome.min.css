@@ -31,3 +31,7 @@
 	font-family: 'HelveticaNeueLTW1G-BlkCn';
 	src: url("../fonts/HelveticaNeueLTW1G-BlkCn.otf") format("opentype");
 }
+@font-face {
+	font-family: 'HelveticaNeueLTW1G-Md';
+	src: url("../fonts/HelveticaNeueLTW1G-Md.otf") format("opentype");
+}

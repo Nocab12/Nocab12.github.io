@@ -28,7 +28,6 @@ body {
 	padding-left: 5px;
 	font-family: 'Lato', sans-serif;
 	font-size: 12px;
-
 }
 .logo__text-up {
 	text-transform: uppercase;
@@ -38,7 +37,7 @@ body {
 .contact {
 	font-size: 18px;
 	text-align: right;
-	font-family: 'HelveticaNeueLTW1G-BlkIt';	
+	font-family: 'HelveticaNeueLTW1G-Md';	
 }
 .contact__sup {
 	text-decoration: underline;
@@ -51,7 +50,7 @@ body {
 .header-content__heading {
 	font-size: 45px;
 	font-weight: bold;
-	font-family: 'HelveticaNeueLTW1G-BlkIt';
+	font-family: 'HelveticaNeueLTW1G-Md';
 	text-transform: uppercase;
 }
 .header-content__text {
@@ -229,7 +228,9 @@ body {
 	padding-top: 120px;
 	color:#000000;
 	padding-left: 210px;
+	position: relative;
 }
+
 .rate-content__heading {
 	font-size: 45px;
 	line-height: 50px;
@@ -286,7 +287,6 @@ body {
 .static {
 	background: #212121;
 	height: 560px;
-	text-transform: uppercase;
 	color: #fff;
 	text-align: center;
 	position: relative;
@@ -330,6 +330,7 @@ body {
 	padding-bottom: 90px;
 	padding-left: 120px;
 	padding-right: 120px;
+	text-transform: uppercase;
 
 }
 .static-content__box_list {
