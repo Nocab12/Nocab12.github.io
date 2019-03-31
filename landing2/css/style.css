@@ -72,6 +72,14 @@
     top: 10px;
     right: 15px;
 }
+.btn:before:hover {
+	color: yellow;
+}
+.btn:hover {
+	background: #9036ff;
+	transition: 0.7s;
+	color: yellow;
+}
 .modul--two {
 	background: #2e883f;
 	margin-top: 50px;
@@ -202,9 +210,18 @@ img.line2 {
 	text-align: center;
 	margin: 50px auto 0;
 }
+.nav-btn:hover {
+	background: #000;
+	transition: 0.5s;
+}
 .btn2 {
 	background: #fdc8cb;
 	padding: 5px;
 	color:#fff;
 	font-size: 20px;
+}
+.btn2:hover {
+	background: #0036ff;
+	color: orange;
+	transition: 0.5s;
 }
